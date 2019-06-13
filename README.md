@@ -18,7 +18,7 @@ train:
 
 Generate pic command:
 
-    python main.py generate --nogpu --vis=False --netd-path=checkpoints/netd_3.pth --netg-path=checkpoints/netg_3.pth 
+    python main.py generate --nogpu  --netd-path=checkpoints/netd_3.pth --netg-path=checkpoints/netg_3.pth 
     
 result(just run 10 epochs)
 -
