@@ -21,4 +21,4 @@ Generate pic command:
     
 result
 -
-![pic]()
+![pic](https://github.com/ReOneK/GAN-Generate_Cartoon_image/blob/master/result.png)
