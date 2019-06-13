@@ -19,7 +19,7 @@ class Config:
     debug_file = '/tmp/debuggan'  # 存在该文件则进入debug模式
     d_every = 1  # 每1个batch训练一次判别器
     g_every = 5  # 每5个batch训练一次生成器
-    save_every = 2  # 每10个epoch保存一次模型
+    save_every = 2  # 每2个epoch保存一次模型
     netd_path = None  # 'checkpoints/netd_.pth' #预训练模型
     netg_path = None  # 'checkpoints/netg_211.pth'
 
