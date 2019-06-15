@@ -13,7 +13,6 @@ class Config:
     ndf = 64  # 判别器feature map数
 
     save_path = 'imgs/'  # 生成图片保存路径
-    env = 'GAN'  # visdom的env
 
 
     debug_file = '/tmp/debuggan'  # 存在该文件则进入debug模式
